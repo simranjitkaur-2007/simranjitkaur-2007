@@ -1,5 +1,13 @@
 # 💫 About Me:
-**HELLO WORLD!** 👋<br>A passionate student, web developer, and tech enthusiast from India, building impactful digital experiences through code<br>🌱 I'm currently a college student who loves exploring and learning new technologies<br>👨‍💻 My Tech Stack includes C, C++, Python, HTML, CSS, JavaScript, MongoDB, Express.js, and Node.js<br>⚡ Focused on strengthening my full-stack development skills<br>🚀 Always curious to learn, build, and innovate in the tech world
+**HELLO WORLD!** 👋
+
+<br>A passionate student, web developer, and tech enthusiast from India, building impactful digital experiences through code
+
+<br>🌱 I'm currently a college student who loves exploring and learning new technologies
+
+<br>👨‍💻 My Tech Stack includes C, C++, Python, HTML, CSS, JavaScript, MongoDB, Express.js, and Node.js
+
+<br>⚡ Focused on strengthening my full-stack development skills<br>🚀 Always curious to learn, build, and innovate in the tech world
 
 
 ## 🌐 Socials:
